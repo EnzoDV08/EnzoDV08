@@ -138,7 +138,7 @@ This section highlights my advanced 3rd-year projects focusing on **full-stack d
 **[Frontend →](https://github.com/EnzoDV08/Sportify_Frontend)**  
 **[Backend →](https://github.com/EnzoDV08/Sportify_Backend)**  
 
-![Sportify Hero](./assets/Sportify-Banner.png)
+![Sportify Hero](./assets/FriendSidebar.png)
 
 - **Overview:**  
   A full-stack web app that connects athletes and communities. Users can create, host, and join events while tracking achievements and points.
@@ -171,7 +171,7 @@ This section highlights my advanced 3rd-year projects focusing on **full-stack d
 
 **[Repository →](https://github.com/EnzoDV08/Hushly-MobileApp)**  
 
-![Hushly Hero](./assets/Hushly-Banner.png)
+![Hushly Hero](./assets/Hushly-Banner (1).png)
 
 - **Overview:**  
   A React Native app that uses device sensors to help users relax through motion-based interaction.
@@ -220,7 +220,7 @@ This section highlights my advanced 3rd-year projects focusing on **full-stack d
   ![OpenAI](https://img.shields.io/badge/OpenAI-GPT4-412991?style=for-the-badge)
 
 - **Preview:**  
-  ![](./assets/Sympli_Mockups.png)
+  ![](./assets/Sympli_Hero (1).png)
 
 - **Links:**  
   📦 [Download APK](https://drive.google.com/drive/folders/1tXDQiY-1GThqrzqFIGjddvy8vzTryGVV) 🎥 [Demo Video](https://drive.google.com/file/d/1kiyrSsoJhMET6uzP3uN9QxNcUSxuARf8/view)
