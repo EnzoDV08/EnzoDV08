@@ -1,221 +1,245 @@
-![](./assets/enzoRepo.png) 
+![](./assets/enzoRepo.png)
 
 <div align="center">
   <img src="#" width="150" style="border-radius: 50%;">
-  
+
   ### 👋 Hello, I'm **Enzo De Vittorio**
-  
+
   **UX Designer | Software Developer | Open Window Major**
-  
-  <p>Welcome to my DV200 Major Project Portfolio! Here, you’ll find my journey through UX design and software development, including projects from Term 1 to Term 4 and beyond. Dive into my work and see how I blend user-centered design with technical expertise to create impactful web applications.</p>
+
+  <p>Welcome to my Major Project Portfolio! Here, you’ll find my journey through UX design and software development, including projects from Term 1 to Term 4 in DV200 and my advanced work in DV300. Dive into my work and see how I blend user-centered design with technical expertise to create impactful web and mobile applications.</p>
 </div>
 
 ---
 
 # 🌟 **DV200 Major Project Portfolio**
 
-This repository showcases projects from Term 1 to Term 4, each representing a milestone in my journey through **User Experience (UX) Design** and **Software Development**. Each project includes insights into the development process, design rationale, and technical implementation.
+This section showcases projects from Term 1 to Term 4 of my **second year (DV200)**. Each project represents a milestone in my growth through **User Experience (UX) Design** and **Software Development**, including design rationale, development process, and technical implementation.
 
 ---
 
 ## 👤 **About Me**
 
-I am currently UX Design and Software Development major at **Open Window** with a passion for creating digital solutions that are both functional and visually appealing. My focus is on merging **user-centered design principles** with technical expertise to build applications that provide great user experiences.
+I’m a **UX Design and Software Development major** at **Open Window**, passionate about crafting digital experiences that are both functional and visually engaging. My focus is merging **user-centered design** with solid technical execution to build intuitive, reliable systems.
 
 ---
 
 ### 🔧 **Skills & Expertise**
 
-- **Frontend Development:** Crafting responsive and interactive interfaces using React, with a focus on visual data representation.
-- **Backend & Database Management:** Proficient in MongoDB, Firebase, MySQL, and PHP, ensuring reliable data management and seamless integration.
-- **User-Centered Design:** Incorporating UX principles to prioritize user needs, accessibility, and ease of navigation.
-- **Team Collaboration:** Experienced in agile workflows, version control (Git & GitHub), and effective team communication.
+- **Frontend Development:** Crafting responsive and interactive interfaces using React.  
+- **Backend & Database Management:** Experienced in MongoDB, Firebase, MySQL, and PHP.  
+- **User-Centered Design:** Creating accessible and easy-to-navigate experiences.  
+- **Team Collaboration:** Agile workflows, Git / GitHub version control, and clear communication.
 
 ---
 
-## 📂 **Project Portfolio**
+## 📂 **DV200 Project Portfolio**
 
-Below is a snapshot of each project from Term 1 to Term 4. Click on the project titles to explore the repositories, and see the visuals for a quick preview of each project.
+Below is a snapshot of each DV200 project.
 
 ---
 
 ### 🟢 **Term 1: Star Wars Data Visualization**
 
-- **Project Overview:**  
-  In this project, I developed a React web application that fetches data from the Star Wars API and visualizes it with Chart.js. This tool lets users explore data from the Star Wars universe interactively.
+- **Overview:**  
+  React web app that fetches data from the Star Wars API and visualizes it with Chart.js.  
 
-- **Key Features:**
-  - Star Wars API integration
-  - Interactive data visualizations
-  - Responsive design for mobile and desktop
+- **Key Features:**  
+  - Star Wars API integration  
+  - Interactive charts  
+  - Responsive design  
 
-- **Technologies Used:**  
-  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Star Wars API](https://img.shields.io/badge/Star%20Wars%20API-black?style=for-the-badge&logo=star-wars&logoColor=white) ![Chart.js](https://img.shields.io/badge/Chart.js-F5788D?style=for-the-badge&logo=chartdotjs&logoColor=white)
-  
-- **[View Repository](https://github.com/EnzoDV08/Term_1_Final_Project.git)*
+- **Technologies:**  
+  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![Chart.js](https://img.shields.io/badge/Chart.js-F5788D?style=for-the-badge&logo=chartdotjs&logoColor=white)
 
-- **Project Preview:**  
-  ![](./assets/Screenshot%202024-11-06%20151536.png) 
+- **[View Repository](https://github.com/EnzoDV08/Term_1_Final_Project)**  
+
+- **Preview:**  
+  ![](./assets/Screenshot%202024-11-06%20151536.png)
 
 ---
 
 ### 🔵 **Term 2: RentalFinder**
 
-- **Project Overview:**  
-  As part of a team of five, we developed a React-based luxury car rental application, integrated with MongoDB. The app allows users to rent luxury cars on an hourly or daily basis, with secure data handling through MongoDB.
+- **Overview:**  
+  A team-built React + MongoDB luxury car rental app. Users can book cars hourly or daily.
 
-- **Key Features:**
-  - Flexible rental pricing (hourly/daily)
-  - User authentication
-  - Payment integration for seamless transactions
+- **Key Features:**  
+  - Dynamic pricing  
+  - Authentication  
+  - Secure database  
 
-- **Technologies Used:**  
-  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
+- **Technologies:**  
+  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge)
+  ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge)
+  ![Express](https://img.shields.io/badge/Express-404D59?style=for-the-badge)
 
-- **[View Repository](https://github.com/EnzoDV08/DV_200_Group2_Final.git)** 
+- **[View Repository](https://github.com/EnzoDV08/DV_200_Group2_Final)**  
 
-- **Project Preview:**  
-  ![](./assets/Screenshot%202024-11-06%20151929.png) 
+- **Preview:**  
+  ![](./assets/Screenshot%202024-11-06%20151929.png)
 
 ---
 
 ### 🟠 **Term 3: Property Marketplace**
 
-- **Project Overview:**  
-  I built a PHP web application for a property marketplace, with MySQL as the database. Users can list properties for sale, subject to admin approval, and interact with listings through comments.
+- **Overview:**  
+  A PHP + MySQL marketplace for property listings with admin verification.
 
-- **Key Features:**
-  - Property listings with admin approval
-  - User commenting and engagement
-  - MySQL integration for secure data handling
+- **Key Features:**  
+  - CRUD listings  
+  - Admin / User roles  
+  - MySQL integration  
 
-- **Technologies Used:**  
-  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![XAMPP](https://img.shields.io/badge/XAMPP-F37623?style=for-the-badge&logo=xampp&logoColor=white)
+- **Technologies:**  
+  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge)
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge)
+  ![XAMPP](https://img.shields.io/badge/XAMPP-F37623?style=for-the-badge)
 
-- **[View Repository](https://github.com/EnzoDV08/Enzo_De_Vittorio_231244_Term3-Final-Project.git)** 
+- **[View Repository](https://github.com/EnzoDV08/Enzo_De_Vittorio_231244_Term3-Final-Project)**  
 
-- **Project Preview:**  
-  ![](./assets/Screenshot%202024-11-06%20152105.png) 
+- **Preview:**  
+  ![](./assets/Screenshot%202024-11-06%20152105.png)
 
 ---
 
 ### 🟣 **Term 4: SuperStore**
 
-- **Project Overview:**  
-  A Firebase-based e-commerce platform where users can register as buyers or sellers. Sellers can list products for sale, while buyers can browse, add items to the cart, and make purchases. Firebase powers the authentication and real-time database functionalities.
+- **Overview:**  
+  A Firebase-based e-commerce platform supporting buyers and sellers with real-time updates.
 
-- **Key Features:**
-  - User roles (Buyer/Seller)
-  - Real-time database with Firestore
-  - Secure user authentication via Firebase
+- **Key Features:**  
+  - Firebase Auth  
+  - Firestore Database  
+  - Buyer / Seller roles  
 
-- **Technologies Used:**  
-  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white) ![Firestore](https://img.shields.io/badge/Firestore-FFA611?style=for-the-badge&logo=firebase&logoColor=white)
+- **Technologies:**  
+  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge)
+  ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge)
+  ![Firestore](https://img.shields.io/badge/Firestore-FFA611?style=for-the-badge)
 
-- **[View Repository](https://github.com/EnzoDV08/SuperStore_DV200_Term_4.git)** 
+- **[View Repository](https://github.com/EnzoDV08/SuperStore_DV200_Term_4)**  
 
-- **Project Preview:**  
+- **Preview:**  
   ![](./assets/Screenshot%202024-11-06%20152315.png)
 
 ---
 
-## 🚀 **Current Projects**
+# 🧠 **DV300 Major Project Portfolio (Third Year)**
 
-### **Lekker Snack Box**
-
-I'm currently working on a web application for **Lekker Snack Box**, a service that allows boarding school students to order snack boxes delivered directly to them. Parents can subscribe to ensure weekly snack deliveries for their children, offering convenience and peace of mind.
-
-- **Key Features:**
-  - Subscription-based weekly deliveries
-  - Secure payment integration for recurring subscriptions
-  - User-friendly interface for easy ordering and management
-
-### **Escape Today**
-
-Another ongoing project is **Escape Today**, a platform where businesses can subscribe to have their services promoted. This service includes partnership with **Fox Firelighters**, which hosts competitions on the platform, offering promotional opportunities for other businesses involved.
-
-- **Key Features:**
-  - Business subscription for advertisement and promotion
-  - Integrated competition platform in partnership with Fox Firelighters
-  - Dynamic promotion options for enhanced visibility
+This section highlights my advanced 3rd-year projects focusing on **full-stack development, AI, and mobile UX**.
 
 ---
 
-## 📊 **GitHub Repository Statistics**
+### 🟢 **Sportify – Full-Stack Sports Event Platform**
 
-### Term 1: Star Wars Data Visualization
+**[Frontend →](https://github.com/EnzoDV08/Sportify_Frontend)**  
+**[Backend →](https://github.com/EnzoDV08/Sportify_Backend)**  
 
-![GitHub Repo stars](https://img.shields.io/github/stars/EnzoDV08/Term_1_Final_Project?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/EnzoDV08/Term_1_Final_Project?style=for-the-badge)
-![GitHub watchers](https://img.shields.io/github/watchers/EnzoDV08/Term_1_Final_Project?style=for-the-badge)
-![GitHub repo size](https://img.shields.io/github/repo-size/EnzoDV08/Term_1_Final_Project?style=for-the-badge)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/EnzoDV08/Term_1_Final_Project?style=for-the-badge)
-![GitHub last commit](https://img.shields.io/github/last-commit/EnzoDV08/Term_1_Final_Project?style=for-the-badge)
+![Sportify Hero](./assets/Sportify-Banner.png)
 
-### Term 2: Luxury Car Rental Application
+- **Overview:**  
+  A full-stack web app that connects athletes and communities. Users can create, host, and join events while tracking achievements and points.
 
-![GitHub Repo stars](https://img.shields.io/github/stars/EnzoDV08/DV_200_Group2_Final?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/EnzoDV08/DV_200_Group2_Final?style=for-the-badge)
-![GitHub watchers](https://img.shields.io/github/watchers/EnzoDV08/DV_200_Group2_Final?style=for-the-badge)
-![GitHub repo size](https://img.shields.io/github/repo-size/EnzoDV08/DV_200_Group2_Final?style=for-the-badge)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/EnzoDV08/DV_200_Group2_Final?style=for-the-badge)
-![GitHub last commit](https://img.shields.io/github/last-commit/EnzoDV08/DV_200_Group2_Final?style=for-the-badge)
+- **Key Features:**  
+  - Event creation / invites  
+  - Achievements + Points system  
+  - Friend + Participant management  
+  - Admin dashboard + analytics  
+  - PostgreSQL + Dockerized .NET API  
 
-### Term 3: Property Marketplace
+- **Technologies:**  
+  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge)
+  ![Tailwind](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge)
+  ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge)
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge)
 
-![GitHub Repo stars](https://img.shields.io/github/stars/EnzoDV08/Enzo_De_Vittorio_231244_Term3-Final-Project?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/EnzoDV08/Enzo_De_Vittorio_231244_Term3-Final-Project?style=for-the-badge)
-![GitHub watchers](https://img.shields.io/github/watchers/EnzoDV08/Enzo_De_Vittorio_231244_Term3-Final-Project?style=for-the-badge)
-![GitHub repo size](https://img.shields.io/github/repo-size/EnzoDV08/Enzo_De_Vittorio_231244_Term3-Final-Project?style=for-the-badge)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/EnzoDV08/Enzo_De_Vittorio_231244_Term3-Final-Project?style=for-the-badge)
-![GitHub last commit](https://img.shields.io/github/last-commit/EnzoDV08/Enzo_De_Vittorio_231244_Term3-Final-Project?style=for-the-badge)
+- **Preview:**  
+  ![](./assets/Sportify_Home.png)
+  ![](./assets/Sportify_Admin.png)
 
-### Term 4: SuperStore E-commerce Application
-
-![GitHub Repo stars](https://img.shields.io/github/stars/EnzoDV08/SuperStore_DV200_Term_4?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/EnzoDV08/SuperStore_DV200_Term_4?style=for-the-badge)
-![GitHub watchers](https://img.shields.io/github/watchers/EnzoDV08/SuperStore_DV200_Term_4?style=for-the-badge)
-![GitHub repo size](https://img.shields.io/github/repo-size/EnzoDV08/SuperStore_DV200_Term_4?style=for-the-badge)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/EnzoDV08/SuperStore_DV200_Term_4?style=for-the-badge)
-![GitHub last commit](https://img.shields.io/github/last-commit/EnzoDV08/SuperStore_DV200_Term_4?style=for-the-badge)
+- **Links:**  
+  🌐 [Live App](https://sportifydebuggers.netlify.app/) ⚙️ [Swagger API](https://sportify-backend-znri.onrender.com/swagger/index.html) 🎥 [Demo Video](https://drive.google.com/file/d/1kiyrSsoJhMET6uzP3uN9QxNcUSxuARf8/view)
 
 ---
 
-## 📈 **GitHub Profile Stats**
+### 🔵 **Hushly – Mindfulness Mobile App**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoDV08&layout=compact&theme=default&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EnzoDV08&show_icons=true&count_private=true&theme=default&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+**[Repository →](https://github.com/EnzoDV08/Hushly-MobileApp)**  
 
+![Hushly Hero](./assets/Hushly-Banner.png)
+
+- **Overview:**  
+  A React Native app that uses device sensors to help users relax through motion-based interaction.
+
+- **Key Features:**  
+  - Shake-to-relax gesture  
+  - Breathing animations + sound  
+  - Firebase Auth / Storage  
+  - Dark mode calming UI  
+
+- **Technologies:**  
+  ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge)
+  ![Expo](https://img.shields.io/badge/Expo-000000?style=for-the-badge)
+  ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge)
+
+- **Preview:**  
+  ![](./assets/Hushly_Mockup.png)
+
+- **Demo:**  
+  [Watch Video](https://drive.google.com/file/d/1kiyrSsoJhMET6uzP3uN9QxNcUSxuARf8/view)
 
 ---
 
+### 💊 **Sympli-AI Health – Digital Nurse App**
 
+**[Repository →](https://github.com/EnzoDV08/Sympli-AI-health)**  
 
-## 🛠 **Skills & Tools**
+![Sympli Hero](./assets/Sympli_Hero.png)
 
-A summary of the tools and technologies used across the projects:
+- **Overview:**  
+  A Flutter-based AI nurse that combines OpenAI GPT-4 and Google Cloud AI to provide conversational medical assistance and medication reminders.
 
-- **Frontend:**  
-  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Chart.js](https://img.shields.io/badge/Chart.js-F5788D?style=for-the-badge&logo=chartdotjs&logoColor=white)
+- **Key Features:**  
+  - Conversational AI (GPT-4)  
+  - Voice TTS + STT  
+  - Medication reminders + notifications  
+  - Firestore database + Firebase Auth  
+  - Glassmorphism UI  
 
-- **Backend & Databases:**  
-  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+- **Technologies:**  
+  ![Flutter](https://img.shields.io/badge/Flutter-3.24-blue?style=for-the-badge)
+  ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge)
+  ![Firebase](https://img.shields.io/badge/Firebase-v12-FFCA28?style=for-the-badge)
+  ![Google Cloud](https://img.shields.io/badge/Google_Cloud_AI-4285F4?style=for-the-badge)
+  ![OpenAI](https://img.shields.io/badge/OpenAI-GPT4-412991?style=for-the-badge)
 
-- **Development Environment:**  
-  ![XAMPP](https://img.shields.io/badge/XAMPP-F37623?style=for-the-badge&logo=xampp&logoColor=white) ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+- **Preview:**  
+  ![](./assets/Sympli_Mockups.png)
 
-- **Design:**  
-  ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white)
+- **Links:**  
+  📦 [Download APK](https://drive.google.com/drive/folders/1tXDQiY-1GThqrzqFIGjddvy8vzTryGVV) 🎥 [Demo Video](https://drive.google.com/file/d/1kiyrSsoJhMET6uzP3uN9QxNcUSxuARf8/view)
 
 ---
 
-## 📞 **Contact Information**
+# 📞 **Contact Information**
 
-For inquiries or discussions about my projects, feel free to reach out through the following channels:
+📧 **Email:** 231244@virtualwindow.co.za  
+📱 **Phone:** +27 73 662 4471  
+💻 **GitHub:** [github.com/EnzoDV08](https://github.com/EnzoDV08)
 
-- **Email:** (231244@virtualwindow.co.za)
-- **PhoneNumber:** 073 662 4471
-- **GitHub:**(https://github.com/EnzoDV08)
+---
+
+<p align="center">
+  <i>"Good design speaks — great code listens."</i><br>
+  — Enzo De Vittorio
+</p>
+
 
 ---
 
