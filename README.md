@@ -309,8 +309,8 @@ These projects focus on **AI integration, full-stack scalability, and mobile UX 
 ---
 
 <p align="center">
-  <i>"Good design speaks — great code listens."</i><br>
-  — Enzo De Vittorio
+  <i>"It's not about the technology. It's about people, their goals, and how technology helps them achieve those goals."</i><br>
+  — Don Norman
 </p>
 
 <p align="center">
