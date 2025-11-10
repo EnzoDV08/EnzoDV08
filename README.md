@@ -189,7 +189,7 @@ This section highlights my advanced 3rd-year projects focusing on **full-stack d
   ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge)
 
 - **Preview:**  
-  ![](./assets/demoport.png)
+  ![](./assets/demoport.gif)
 
 - **Demo:**  
   [Watch Video](https://drive.google.com/file/d/1kiyrSsoJhMET6uzP3uN9QxNcUSxuARf8/view)
@@ -220,7 +220,7 @@ This section highlights my advanced 3rd-year projects focusing on **full-stack d
   ![OpenAI](https://img.shields.io/badge/OpenAI-GPT4-412991?style=for-the-badge)
 
 - **Preview:**  
-  ![](./assets/Sympli_GifPort.png)
+  ![](./assets/Sympli_GifPort.gif)
 
 - **Links:**  
   📦 [Download APK](https://drive.google.com/drive/folders/1tXDQiY-1GThqrzqFIGjddvy8vzTryGVV) 🎥 [Demo Video](https://drive.google.com/file/d/1kiyrSsoJhMET6uzP3uN9QxNcUSxuARf8/view)
