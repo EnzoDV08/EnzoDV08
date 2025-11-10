@@ -159,7 +159,7 @@ This section highlights my advanced 3rd-year projects focusing on **full-stack d
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge)
 
 - **Preview:**  
-  ![](./assets/Sportify_Home.png)
+  ![](./assets/SignUpPage.png)
   ![](./assets/Sportify_Admin.png)
 
 - **Links:**  
@@ -189,7 +189,7 @@ This section highlights my advanced 3rd-year projects focusing on **full-stack d
   ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge)
 
 - **Preview:**  
-  ![](./assets/Hushly_Mockup.png)
+  ![](./assets/demoport.png)
 
 - **Demo:**  
   [Watch Video](https://drive.google.com/file/d/1kiyrSsoJhMET6uzP3uN9QxNcUSxuARf8/view)
@@ -220,7 +220,7 @@ This section highlights my advanced 3rd-year projects focusing on **full-stack d
   ![OpenAI](https://img.shields.io/badge/OpenAI-GPT4-412991?style=for-the-badge)
 
 - **Preview:**  
-  ![](./assets/Sympli_Hero (1).png)
+  ![](./assets/Sympli_GifPort.png)
 
 - **Links:**  
   📦 [Download APK](https://drive.google.com/drive/folders/1tXDQiY-1GThqrzqFIGjddvy8vzTryGVV) 🎥 [Demo Video](https://drive.google.com/file/d/1kiyrSsoJhMET6uzP3uN9QxNcUSxuARf8/view)
