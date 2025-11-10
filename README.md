@@ -160,7 +160,7 @@ This section highlights my advanced 3rd-year projects focusing on **full-stack d
 
 - **Preview:**  
   ![](./assets/SignUpPage.png)
-  ![](./assets/Sportify_Admin.png)
+  ![](./assets/Admin.png)
 
 - **Links:**  
   🌐 [Live App](https://sportifydebuggers.netlify.app/) ⚙️ [Swagger API](https://sportify-backend-znri.onrender.com/swagger/index.html) 🎥 [Demo Video](https://drive.google.com/file/d/1kiyrSsoJhMET6uzP3uN9QxNcUSxuARf8/view)
