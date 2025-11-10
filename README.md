@@ -171,7 +171,7 @@ This section highlights my advanced 3rd-year projects focusing on **full-stack d
 
 **[Repository →](https://github.com/EnzoDV08/Hushly-MobileApp)**  
 
-![Hushly Hero](./assets/Hushly-Banner (1).png)
+![Hushly Hero](./assets/Hushly-BannerPort.png)
 
 - **Overview:**  
   A React Native app that uses device sensors to help users relax through motion-based interaction.
@@ -200,7 +200,7 @@ This section highlights my advanced 3rd-year projects focusing on **full-stack d
 
 **[Repository →](https://github.com/EnzoDV08/Sympli-AI-health)**  
 
-![Sympli Hero](./assets/Sympli_Hero.png)
+![Sympli Hero](./assets/Sympli_HeroPort.png)
 
 - **Overview:**  
   A Flutter-based AI nurse that combines OpenAI GPT-4 and Google Cloud AI to provide conversational medical assistance and medication reminders.
